@@ -5,7 +5,7 @@
 
 ### Description
 
-This website is designed for a new company hoping to attract clients and organizations interested in renting a shared workspace. Their website should differentiate itself from standard coworking environments in that it has spunk, special amenities, interior design that reflects their personality as a company, and an understanding and appreciation for both technical and creative work. My vision for this website is to show a place that is both productive and kind, something elegant but not elitist or ultra-corporate.  
+This website is designed for a new company hoping to attract clients and organizations interested in renting a shared workspace. Their website should differentiate itself from standard coworking environments in that it has spunk, special amenities, interior design that reflects their personality as a company, and an understanding and appreciation for both technical and creative work. My vision for this website is to show a place that is both productive and kind, a space removed from the office florescence, elegant but not elitist or ultra-corporate.
 
 
 ### User Stories
@@ -37,7 +37,7 @@ This website is designed for a new company hoping to attract clients and organiz
 
 ### Brainstorming and Inspiration
 
-
+  Precursory research on why coworking exists and what draws companies to it. I also looked at the big companies who specialize in it, trying to find a place to pivot from and form a new niche.
 
 ### Images
 
@@ -45,10 +45,9 @@ Screenshots of your Sketch wireframes should go here. Make sure to include all v
 
 #### Desktop Version
 
-![desktop user interface](img/)
-![desktop user interface](img/)
-![desktop user interface](img/)
-![desktop user interface](img/)
+![desktop user interface](img/ss1.jpg)
+![desktop user interface](img/ss2.jpg)
+![desktop user interface](img/ss3.jpg)
 
 #### Mobile Version
 
