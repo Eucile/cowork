@@ -69,7 +69,6 @@ Following are some screenshots of my work. Beginning with the mobile landing pag
 ![desktop user interface](img/ssamenities2.png)
 ![desktop user interface](img/sssubscribe.png)
 ![desktop user interface](img/sssubscribe2.png)
-![desktop user interface](img/sssubscribe.png)
 
 
 ## Pre-Sketches
