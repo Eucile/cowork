@@ -22,7 +22,7 @@ This website is designed for a new company hoping to attract clients and organiz
   * How I Can Help:
       Show a clear mission statement and demonstrate the company's personality using the right visuals, language and easy-to-use web navigation. This will show Vlad that our offices are both friendly, but not so much that it detracts from our clients need to focus. Also, coffee and crafts if he's feeling froggy.
 
-# Katlyn
+# Katlyn:
 
     * Needs:
       Sociability, communal enrichment (like yoga, craft events, etc.)
@@ -34,7 +34,7 @@ This website is designed for a new company hoping to attract clients and organiz
       Show her that our space can offer all of the things lacking in her current experience. Community, love (as the neon sign offers), and the occasional recreational distractions on Thursdays that will keep her motivated and engaged socially throughout the week.
 
 
-# Local Companies
+# Local Companies:
 
     * Needs:
       A warm place to facilitate their employees that keeps them busy but happy, somewhere that differs from the stringent and cold corporate world.
