@@ -10,11 +10,10 @@ This website is designed for a new company hoping to attract clients and organiz
 
 ### User Stories
 
-# Vlad:
+####### Vlad:
 
   *  Needs:
       Vlad is a traveling businessman who needs a calm workspace to focus and complete his work without sacrificing the human contact he would normally experience with his native coworkers.
-
 
   * Pain Points:
       Isolation, caffein addiction and frequent flyer points have frayed Vlad's nerves. He'd like to find a co-working space especially inclusive to all kinds of workers, but that would also supply his caffein habit.  
@@ -22,19 +21,19 @@ This website is designed for a new company hoping to attract clients and organiz
   * How I Can Help:
       Show a clear mission statement and demonstrate the company's personality using the right visuals, language and easy-to-use web navigation. This will show Vlad that our offices are both friendly, but not so much that it detracts from our clients need to focus. Also, coffee and crafts if he's feeling froggy.
 
-# Katlyn:
+###### Katlyn:
 
-    * Needs:
+     * Needs:
       Sociability, communal enrichment (like yoga, craft events, etc.)
 
-    * Pain Points:
+     * Pain Points:
       Katy is not head-over-heels in love with her line of work as of now, so it's very important that she is surrounded by positive people and lovely surroundings to compensate for what her work fails to give her.
 
-    * How I Can Help:
+    *  How I Can Help:
       Show her that our space can offer all of the things lacking in her current experience. Community, love (as the neon sign offers), and the occasional recreational distractions on Thursdays that will keep her motivated and engaged socially throughout the week.
 
 
-# Local Companies:
+###### Local Companies:
 
     * Needs:
       A warm place to facilitate their employees that keeps them busy but happy, somewhere that differs from the stringent and cold corporate world.
