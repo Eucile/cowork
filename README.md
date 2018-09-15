@@ -82,9 +82,9 @@ Following are some screenshots of my work. Beginning with the mobile landing pag
 
 Apart from improving the design and fine tuning all the details, I would like to add more navigational keys such as arrows, or "return to previous page" prototyping. I would also like to add some testimonials with block-quotes and/or some pictures of the owners and employees to give the site a more human presence. I would also be sure write up a strong mission statement or welcome message. But since this is a mock-up design I didn't supply that content.
 
-##Responsiveness
+## Responsiveness
 
-This site is not yet responsive because it's just a sketch file. 
+This site is not yet responsive because it's just a sketch file? 
 
 ### Technologies and Resources
 
